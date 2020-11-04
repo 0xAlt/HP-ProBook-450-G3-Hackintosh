@@ -40,7 +40,7 @@ OpenCore setup for running Hackintosh on HP ProBook 450 G3
 - Built-in trackpad (basic gestures)
 - Brightness Control Hotkeys
 - Audio Control Hotkeys
-- HDMI video/audio
+- HDMI Video and Audio
 - Native Wifi and Ethernet
 - Native audio with AppleALC, including headphone
 - Built-in mic
@@ -50,7 +50,6 @@ OpenCore setup for running Hackintosh on HP ProBook 450 G3
 - Ethernet
 - Audio on internal speaker and headphone
 - Sleep and Wake
-- HDMI Video and Audio
 
 ### What doesn't work:
 - Bluetooth and AirDrop
